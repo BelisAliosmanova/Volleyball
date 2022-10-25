@@ -1,0 +1,3 @@
+VolleyballPlayer{name='Teodor Todorov', age=21, position='atacker', skills=10, condition=5}
+VolleyballPlayer{name='Stefan Dimitrov', age=21, position='blocker', skills=8, condition=1}
+VolleyballPlayer{name='Martin Blagoev', age=21, position='atacker', skills=10, condition=1}

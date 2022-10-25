@@ -1,0 +1,3 @@
+VolleyballPlayer{name='Zahari Toshev', age=20, position='atacker', skills=10, condition=4}
+VolleyballPlayer{name='Teodor Mitev', age=22, position='blocker', skills=6, condition=5}
+VolleyballPlayer{name='Stoyan Stoyanov', age=26, position='libero', skills=9, condition=5}
